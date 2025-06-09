@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/83gY5Z5.png" alt="CrisisReady.ai Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/Zuhairmax/CrisisReady.ai/main/logo.png" alt="CrisisReady.ai Logo" width="150"/>
   <h1>CrisisReady.ai</h1>
   <p><b>An AI-powered system for generating dynamic and intelligent emergency plans.</b></p>
   <p><b>نظام يعمل بالذكاء الاصطناعي لتوليد خطط طوارئ ذكية وديناميكية.</b></p>
